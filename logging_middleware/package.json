@@ -1,0 +1,13 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Logging middleware for evaluation test server",
+  "type": "module",
+  "main": "logger.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "axios": "^1.17.0"
+  }
+}
