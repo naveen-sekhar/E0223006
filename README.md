@@ -1,9 +1,5 @@
 # Campus Notification Platform
 
-A full-stack campus notification platform featuring a reusable logging middleware, a Node.js Express backend proxy, and a React frontend client.
-
----
-
 ## Project Structure
 
 *   `logging_middleware/` - Reusable log validation and transmission package.
